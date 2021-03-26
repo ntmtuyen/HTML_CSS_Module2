@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to HTML CSS Assignment of Module 2
 
 You can use the [editor on GitHub](https://github.com/ntmtuyen/HTML_CSS_Module2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
